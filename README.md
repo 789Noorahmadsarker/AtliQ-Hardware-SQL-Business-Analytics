@@ -107,7 +107,7 @@ The report should include:
 
 To perform the analysis, actual sales and forecast data are combined into a single analytical dataset.
 
-```text
+
 fact_sales_monthly
         +
 fact_forecast_monthly
