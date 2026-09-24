@@ -77,7 +77,6 @@ The value of **N** is user-defined, allowing users to generate Top 3, Top 5, Top
 
 A reusable Net Sales calculation is developed through a sequence of SQL Views:
 
-```text
 Pre-Invoice Sales
         ↓
 Post-Invoice Sales
