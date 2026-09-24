@@ -118,7 +118,7 @@ fact_act_est
 
 ## 🗂️ Project Structure
 
-
+```text
 AtliQ-Hardware-SQL-Business-Analytics/
 │
 ├── README.md
